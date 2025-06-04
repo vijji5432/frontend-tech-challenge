@@ -70,13 +70,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
 
-## 👩‍💻 Author
-
-* **Alekhya Vijji**
-* [GitHub Profile](https://github.com/vijji5432)
-
-```
-
-Just paste this as your `README.md` in the repo root folder. If you want, I can also help you create the full project structure or upload it somewhere.
-```
-
