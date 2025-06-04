@@ -1,11 +1,11 @@
 Sure! Here’s a clean, ready-to-paste **README.md** for your React frontend challenge repo:
 
 ````markdown
-# 🐱 Frontend Technical Challenge – Internship Assignment
+🐱 Frontend Technical Challenge – Internship Assignment
 
 This is a simple React application that fetches a random **cat fact** from the public API [catfact.ninja](https://catfact.ninja/fact) and displays it when a button is clicked.
 
-## ✅ Features
+✅ Features
 
 - Single-page React app
 - Uses `async/await` to fetch data
@@ -15,9 +15,9 @@ This is a simple React application that fetches a random **cat fact** from the p
 
 ---
 
-## 🚀 How to Run Locally
+🚀 How to Run Locally
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/vijji5432/frontend-tech-challenge.git
