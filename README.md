@@ -54,6 +54,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * The app fetches a random cat fact from a public API.
 * Proper error handling is included.
 * Simple UI designed for clarity and usability.
+📸 Sample Screenshot
+
+Here is what the app looks like:
+
+![App Screenshot](screenshot.png)
 
 ---
 
